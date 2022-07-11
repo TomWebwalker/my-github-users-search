@@ -1,0 +1,14 @@
+:host {
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  width: 100%;
+  img {
+    margin-top: 8px;
+    height: 40px;
+    width: auto;
+    border-radius: 50%;
+  }
+}
